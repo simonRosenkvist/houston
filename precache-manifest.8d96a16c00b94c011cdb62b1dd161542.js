@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1b5b0bdcd0d80c7f956348e0504671ea",
+    "revision": "7f36cacd933ef5235131e457dd3add15",
     "url": "/houston/index.html"
   },
   {
-    "revision": "32752ef0b525bc8cf7db",
+    "revision": "b1f5fd1945a8e435d017",
     "url": "/houston/static/css/main.f4a8ec40.chunk.css"
   },
   {
@@ -12,16 +12,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/houston/static/js/2.ffe61b75.chunk.js"
   },
   {
-    "revision": "32752ef0b525bc8cf7db",
-    "url": "/houston/static/js/main.38f6bf38.chunk.js"
+    "revision": "b1f5fd1945a8e435d017",
+    "url": "/houston/static/js/main.6eb8f574.chunk.js"
   },
   {
     "revision": "e708ecf9a0541715f99c",
     "url": "/houston/static/js/runtime-main.cc455dd7.js"
-  },
-  {
-    "revision": "a77c4fba4ffff510ba36cd071e0f4b56",
-    "url": "/houston/static/media/astronaut.a77c4fba.jpg"
   },
   {
     "revision": "5d95b1dedcc9757ee2f5089018e82236",
