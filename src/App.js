@@ -56,7 +56,6 @@ import christmas3 from './pic/christmasDecor2.jpg';
 import christmas4 from './pic/christmasDecorModest.jpg';
 import christmas5 from './pic/christmasLove1.jpg';
 import christmas6 from './pic/christmasLove2.jpg';
-import astronaut from './pic/astronaut.jpg';
 import lama from './pic/lama.jpg';
 import nasa1 from './pic/nasa1.jpg';
 import nasa2 from './pic/nasa2.jpg';
